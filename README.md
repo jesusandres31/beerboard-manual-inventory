@@ -1,6 +1,11 @@
 ## BeerBoard - Manual Inventory 🍺🍻
 
+### ⚠️ (under construction)
+
+<br>
 PWA for bars inventory.
+
+<br>
 
 ## Stack used 💻
 
